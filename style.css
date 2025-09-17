@@ -2,6 +2,7 @@
 
 
 
+
 .file {
 margin: 0 auto;
     width: 1315px;
@@ -92,10 +93,125 @@ margin: 0 auto;
      margin-top:-55px ;
     font-size:14px ;
     font-weight:600 ;
+
+.container{
+    position: relative;
+}
+.wrapper{
+    position: relative;
+  max-width: 1440px;
+  height: 100xp;
+  border: 2px solid white;
+  margin: 0 auto;
+}
+.text-1{padding: 0px 50px;
+    display: flex;
+    gap: 50px;
+    color: rgba(57, 62, 70, 1);
+}
+.text-1 img:hover{
+transform: scale(1.1);
+}
+.text-1 h4:hover{
+    transform: scale(1.1);
+}
+.img-1{
+    display: flex;
+    gap: 50px;
+    position: absolute;
+    left: 1200px;
+    top: 20px;
+}
+.a1:hover{
+    transform: scale(1.1);
+}
+.a2:hover{
+    transform: scale(1.1);
+}
+.a3:hover{
+    transform: scale(1.1);
+}
+.wrapper-01{
+   max-width: 1440px;
+   height: 559px;
+   border: 2px solid white;
+   margin: 0 auto;
+}
+
+.fon{
+    position: absolute;
+    top: 81px;
+}
+.text-2{
+    position: absolute;
+    top: 80px;
+    left: 130px;
+}
+.text-2 h1{
+    font-size: 55px;
+}
+.text-2 h3{
+    position: absolute;
+    top: 65px;
+    font-size: 32px;
+}
+.text-2 p{
+    font-size: 17px;
+}
+.text-3{
+    position: absolute;
+    top: 300px;
+    left: 130px;
+    font-size: 27px;
+}
+.btn{
+ position: absolute;
+top: 390px;
+left: 130px;
+}
+.btn-01{
+    width: 127px;
+    height: 41px;
+    background-color: black;
+    color: white;
+    border-radius: 16px;
+}
+.btn-02{
+    width: 127px;
+    height: 41px;
+    background-color: rgba(255, 202, 0, 1);
+    color: black;
+    border-radius: 16px;
+    border: 2px solid white;
+}
+.wrapper-02{
+   max-width: 1440px;
+   height: 657px;
+   margin: 0 auto;
+   background-color: rgba(0, 0, 0, 0.05);
+}
+
+.text-4{
+    text-align: center;
+    font-size: 40px;
+}
+.text-4 h1{
+    position: absolute;
+    top: 600px;
+    left: 480px;
+}
+.text-4 h3{
+       position: absolute;
+    top: 680px;
+    left: 620px;
+}
+.btn-03{
+
     width: 139px;
     height: 41px;
     background-color: black;
     color: white;
+
     border-radius: 20px;
     margin-left:590px ;
     gap: 25px;
@@ -202,7 +318,7 @@ border-radius: 15px;
 
 }
 
-/* gfdghjkhgfdhjklhgfcgjklhgfcfvjkljhvgcfxgvhbjhklkhgvcfxgvhbjnkjhgvcfvhjkjlhhjvgchvhbjklkjhbhv */
+
 
 
 .joogazyn555{
@@ -433,4 +549,139 @@ height:96px ;
 
 
 
+
+
+    border-radius: 18px;
+    position: absolute;
+    top: 790px;
+    left: 690px;
+}
+.btn-03:hover{
+    transform: scale(1.1);
+}
+.ramka{
+    position: relative;
+    width: 650px;
+    height: 444px;
+    border-radius: 28px;
+  
+    position: absolute;
+    top: 860px;
+    left: 150px;
+}
+.ramka-01{
+    position: relative;
+    width: 315px;
+    height: 443px;
+    
+    border-radius: 26px;
+    position: absolute;
+    top: 860px;
+    left: 810px;
+    background-color: rgba(255, 255, 255, 1);
+}
+.ramka-01:hover{
+    transform: scale(1.03);
+    box-shadow: 10px 10px 10px black;
+}
+.ramka-01 img{
+   padding: 30px 75px;
+ 
+}
+.ramka-01 h2{
+
+    font-size: 34px;
+    position: absolute;
+    top: 210px;
+    left: 70px;
+}
+.ramka-01 p{
+    font-size: 18px;
+    position: absolute;
+    top: 270px;
+    left: 55px;
+
+}
+.ramka-01 h4{
+    font-size: 18px;
+    position: absolute;
+    top: 300px;
+    left: 110px;
+
+}
+.btn-04{
+    width: 127px;
+    height: 41px;
+    background-color: rgba(255, 202, 0, 1);
+    border-radius: 18px;
+    border: 2px solid white;
+     position: absolute;
+    top: 370px;
+    left: 90px;
+
+}
+.btn-04:hover{
+    transform: scale(1.1);
+}
+.ramka-02{
+    position: relative;
+      width: 315px;
+    height: 443px;
+    
+    border-radius: 26px;
+    position: absolute;
+    top: 860px;
+    left: 1140px;
+    background-color: rgba(255, 255, 255, 1);
+}
+.ramka-02:hover{
+    transform: scale(1.03);
+    box-shadow: 10px 10px 10px black;
+}
+
+.ramka-02 img{
+   padding: 30px 75px;
+ 
+}
+.ramka-02 h2{
+
+    font-size: 34px;
+    position: absolute;
+    top: 210px;
+    left: 70px;
+}
+.ramka-02 p{
+    font-size: 18px;
+    position: absolute;
+    top: 270px;
+    left: 55px;
+
+}
+.ramka-02 h4{
+    font-size: 18px;
+    position: absolute;
+    top: 300px;
+    left: 110px;
+
+}
+.btn-05{
+    width: 127px;
+    height: 41px;
+    background-color: rgba(255, 202, 0, 1);
+    border-radius: 18px;
+    border: 2px solid white;
+     position: absolute;
+    top: 370px;
+    left: 90px;
+
+}
+.btn-05:hover{
+    transform: scale(1.1);
+}
+.btn-01:hover{
+    transform: scale(1.1);
+}
+.btn-02:hover{
+    transform: scale(1.1);
+}
 
